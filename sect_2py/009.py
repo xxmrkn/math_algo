@@ -1,3 +1,4 @@
+#bit全探索
 N, S = map(int, input().split())
 A = list(map(int, input().split()))
 
